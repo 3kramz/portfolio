@@ -3,8 +3,8 @@ import React from 'react';
 const Services = () => {
     return (
         <div className='max-w-screen-xl mx-auto py-16'>
-            <p>|| My servicess</p>
-            <p className='font-cormor text-[70px]'>Service Provide For My Clients.</p>
+            <p className='pl-10'>|| My servicess</p>
+            <p className='font-cormor text-[40px] lg:text-[70px] pl-10'>Service Provide For My Clients.</p>
 
             <div class="grid grid-cols-1 lg:grid-cols-3 my-10 justify-items-center ">
                 <div class=" w-[350px] bg-base-300 my-2">
