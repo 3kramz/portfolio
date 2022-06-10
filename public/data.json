@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Facturer ",
+        "img": "https://i.ibb.co/Qj9tRtP/facturer.png",
+        "detailsImg": [
+            "https://i.ibb.co/r4PjG6j/facturer-3.jpg",
+            "https://i.ibb.co/5j2Vs9L/facturer-4.jpg"
+        ],
+        "bulletPoint": [
+            "User can order parts from available parts",
+            "implemented user authentication with firebase-auth",
+            "Authorized user can order parts, post review and update his profile",
+            "Admin can add parts, update products, manage all orders, and make another admin .",
+            "Admin can update profile"
+        ],
+        "backendTech": [
+            "Language : Node.js",
+            "Framework : Express.js",
+            "Database : MongoDB"
+        ],
+        "frontendTech": [
+            "Language : JavaScript",
+            "Framework :React.js",
+            "UI component Library/framework : DaisyUi",
+            "Navigation : React-Router",
+            "Authentication : Firebase Auth, JWT"
+        ]
+    },
+    {
+        "name": "Reven Driven ",
+        "img": "https://i.ibb.co/BwdJpp8/reven.png",
+        "detailsImg": [
+            "https://i.ibb.co/sHCtGzt/reven-1.jpg",
+            "https://i.ibb.co/JmQRVm6/reven-2.jpg"
+        ],
+        "bulletPoint": [
+            "user authentication with firebase-auth",
+            "Authorized user can manage inventory",
+            "Authorized user can add inventory",
+            "Authorized user can delete his created inventory",
+            "user can update inventory"
+        ],
+        "backendTech": [
+            "Language : Node.js",
+            "Framework : Express.js",
+            "Database : MongoDB"
+        ],
+        "frontendTech": [
+            "Language : JavaScript",
+            "Framework :React.js",
+            "UI component Library/framework : Tailwind , MUI",
+            "Navigation : React-Router",
+            "Authentication : Firebase Auth"
+        ]
+    },
+    {
+        "name": "Klub fit ",
+        "img": "https://i.ibb.co/q7KbVLc/klub-fit.png",
+        "detailsImg": [
+            "https://i.ibb.co/ysgfQF3/klubfit-2.jpg",
+            "https://i.ibb.co/HDvS5Fz/klubfit-3.jpg"
+        ],
+        "bulletPoint": [
+            "user authentication with firebase-auth",
+            "user can take paid membership",
+            "Private route purching services",
+            "Log in with Email , password and google"
+        ],
+        "frontendTech": [
+            "Language : JavaScript",
+            "Framework :React.js",
+            "UI component Library/framework : Tailwind ",
+            "Navigation : React-Router",
+            "Authentication : Firebase Auth"
+        ]
+    }
+]

@@ -1,6 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
-import Projects from './Projects';
+import Projects from './Projects/Projects';
 import Services from './Services';
 
 const Home = () => {
